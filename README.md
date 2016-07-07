@@ -1,3 +1,7 @@
+**For details:** See the iPython notebook `nba_scrape.ipynb`.
+
+
+---
 
 # NBA Cold Maps
 
@@ -30,5 +34,3 @@ Prerequisite packages include:
     requests
 
 For any questions, bug reports, etc., contact [Steven S. Kim](http://ssk.im) via e-mail at [steven_kim@brown.edu](mailto:steven_kim@brown.edu).
-
-**For more information:** See the iPython notebook `nba_scrape.ipynb`.
